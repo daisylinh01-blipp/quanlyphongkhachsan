@@ -4,6 +4,7 @@ from datetime import datetime, date
 
 import pandas as pd
 
+st.image("IMG_2511.jpeg")
 # =========================================================
 
 # CẤU HÌNH APP
